@@ -91,3 +91,4 @@ The VM deployment itself did not complete because the selected VM size was not a
 Next Step
 
 Check VM size availability in PowerShell before deploying again and test another region that supports the Linux VM size I want.
+Finsih TMRW setup of vm from shell command and then dial in 
